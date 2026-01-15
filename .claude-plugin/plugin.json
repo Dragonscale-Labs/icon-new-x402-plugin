@@ -2,7 +2,9 @@
   "name": "icon-x402",
   "version": "1.0.0",
   "description": "Generate AI icons using icon.new with x402 USDC payments on Base",
-  "author": "ndx",
+  "author": {
+    "name": "ndx"
+  },
   "keywords": ["icon", "icons", "ai", "design", "x402", "usdc", "crypto", "base"],
   "homepage": "https://icon.new",
   "repository": "https://github.com/Dragonscale-Labs/icon-plugin"
