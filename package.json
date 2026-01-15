@@ -1,0 +1,28 @@
+{
+  "name": "icon-x402",
+  "version": "1.0.0",
+  "description": "Generate AI icons using icon.new with x402 USDC payments on Base",
+  "type": "module",
+  "scripts": {
+    "icon": "node scripts/generate-icon.js"
+  },
+  "dependencies": {
+    "@x402/core": "latest",
+    "@x402/fetch": "latest",
+    "@x402/evm": "latest",
+    "viem": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [
+    "icon",
+    "ai",
+    "x402",
+    "usdc",
+    "base",
+    "crypto"
+  ],
+  "author": "ndx",
+  "license": "MIT"
+}
